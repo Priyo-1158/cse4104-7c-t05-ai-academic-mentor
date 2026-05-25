@@ -1,0 +1,1443 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 12076
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.32549 .290196 .717647 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 154.0972 0 Td (AI Academic Mentor) Tj T* -154.0972 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 754.5354 cm
+q
+BT 1 0 0 1 0 2 Tm 150.2942 0 Td 12 TL /F1 10 Tf .533333 .529412 .501961 rg (Personalized Learning & Study Assistant) Tj T* -150.2942 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 740.5354 cm
+q
+.533333 .529412 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 72.20417 0 Td (Initial Project Plan \227 CSE4104-7C-T05 | CSE 4104 | NUBTK | 25 May 2026) Tj T* -72.20417 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 737.5354 cm
+q
+1 w
+1 J
+.32549 .290196 .717647 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 713.5354 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Project Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 657.5354 cm
+q
+.945098 .937255 .909804 rg
+n 0 52 481.2283 -52 re f*
+.945098 .937255 .909804 rg
+n 0 52 481.2283 -26 re f*
+.945098 .937255 .909804 rg
+n 0 26 481.2283 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 32 cm
+q
+.32549 .290196 .717647 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 43.03354 0 Td (14) Tj T* -43.03354 0 Td ET
+Q
+Q
+q
+1 0 0 1 126.3071 32 cm
+q
+.058824 .431373 .337255 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 48.59354 0 Td (6) Tj T* -48.59354 0 Td ET
+Q
+Q
+q
+1 0 0 1 246.6142 32 cm
+q
+.094118 .372549 .647059 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 48.59354 0 Td (4) Tj T* -48.59354 0 Td ET
+Q
+Q
+q
+1 0 0 1 366.9213 32 cm
+q
+.729412 .458824 .090196 rg
+BT 1 0 0 1 0 -8 Tm /F2 20 Tf 12 TL 48.59354 0 Td (8) Tj T* -48.59354 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.533333 .529412 .501961 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 41.92954 0 Td (Weeks) Tj T* -41.92954 0 Td ET
+Q
+Q
+q
+1 0 0 1 126.3071 6 cm
+q
+.533333 .529412 .501961 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 40.81354 0 Td (Phases) Tj T* -40.81354 0 Td ET
+Q
+Q
+q
+1 0 0 1 246.6142 6 cm
+q
+.533333 .529412 .501961 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 26.14954 0 Td (Team Members) Tj T* -26.14954 0 Td ET
+Q
+Q
+q
+1 0 0 1 366.9213 6 cm
+q
+.533333 .529412 .501961 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 28.58954 0 Td (Core Features) Tj T* -28.58954 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.827451 .819608 .780392 RG
+.5 w
+n 0 52 m 481.2283 52 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 52 l S
+n 481.2283 0 m 481.2283 52 l S
+n 0 26 m 481.2283 26 l S
+n 120.3071 0 m 120.3071 52 l S
+n 240.6142 0 m 240.6142 52 l S
+n 360.9213 0 m 360.9213 52 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 647.5354 cm
+Q
+q
+1 0 0 1 57.02362 623.5354 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Team Members) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 513.5354 cm
+q
+.32549 .290196 .717647 rg
+n 0 106 481.2283 -22 re f*
+1 1 1 rg
+n 0 84 481.2283 -21 re f*
+.945098 .937255 .909804 rg
+n 0 63 481.2283 -21 re f*
+1 1 1 rg
+n 0 42 481.2283 -21 re f*
+.945098 .937255 .909804 rg
+n 0 21 481.2283 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 89 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Role) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.8668 89 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.3581 89 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Student ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 68 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Team Leader) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.8668 68 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Shadman Sadequeen Priyo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.3581 68 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (11230121158) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 47 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Frontend Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.8668 47 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Musabbir Hossain Chayon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.3581 47 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (11230121168) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 26 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Backend Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.8668 26 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Sk. Nadirul Haque Nadir) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.3581 26 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (11230121155) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 5 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (AI Integration Lead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.8668 5 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Shafin Kabir) Tj T* ET
+Q
+Q
+q
+1 0 0 1 383.3581 5 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (11230121175) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.686275 .662745 .92549 RG
+.5 w
+n 0 106 m 481.2283 106 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 106 l S
+n 481.2283 0 m 481.2283 106 l S
+.827451 .819608 .780392 RG
+n 0 84 m 481.2283 84 l S
+n 0 63 m 481.2283 63 l S
+n 0 42 m 481.2283 42 l S
+n 0 21 m 481.2283 21 l S
+n 182.8668 0 m 182.8668 106 l S
+n 375.3581 0 m 375.3581 106 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 503.5354 cm
+Q
+q
+1 0 0 1 57.02362 479.5354 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (14-Week Development Timeline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 453.5354 cm
+q
+.32549 .290196 .717647 rg
+n 0 22 481.2283 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Week 1\2262) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Planning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 152.3685 5 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 1 1 1 rg (Team Formation & Project Proposal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.4809 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 2.533701 0 Td (Completed) Tj T* -2.533701 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 363.5354 cm
+q
+.933333 .929412 .996078 rg
+n 0 90 481.2283 -90 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 75 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Deliverable:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 76 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (GitHub repo + Project Proposal PDF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 69 cm
+Q
+q
+1 0 0 1 80.18425 57 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Form team and assign roles: Leader, Frontend Dev, Backend Dev, AI Integration Lead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 51 cm
+Q
+q
+1 0 0 1 80.18425 39 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Create GitHub repo with branch structure: main / development / frontend / backend / ai-integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+Q
+q
+1 0 0 1 80.18425 21 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Finalize technology stack: React.js, Node.js, MongoDB, Gemini/OpenAI API) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 15 cm
+Q
+q
+1 0 0 1 80.18425 3 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Submit Week 2 Project Proposal document) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.32549 .290196 .717647 RG
+.5 w
+n 0 90 m 481.2283 90 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 90 l S
+n 481.2283 0 m 481.2283 90 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 357.5354 cm
+Q
+q
+1 0 0 1 57.02362 335.5354 cm
+q
+.058824 .431373 .337255 rg
+n 0 22 481.2283 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Week 3\2265) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 152.3685 5 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 1 1 1 rg (SRS, Architecture & UI/UX Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.4809 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 3.869701 0 Td (Upcoming) Tj T* -3.869701 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 251.5354 cm
+q
+.882353 .960784 .933333 rg
+n 0 84 481.2283 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 69 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Deliverable:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 70 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (SRS document \267 ER diagram \267 Figma wireframes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 63 cm
+Q
+q
+1 0 0 1 80.18425 51 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 3: Write Software Requirements Specification \(SRS\) + use case diagrams) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 45 cm
+Q
+q
+1 0 0 1 80.18425 33 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 4: Design system architecture diagram, ER diagram, and REST API structure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 27 cm
+Q
+q
+1 0 0 1 80.18425 3 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 16 Tm /F1 8 Tf 12 TL (\177 Week 5: Create Figma wireframes for all major pages \(Login, Dashboard, Chatbot, Quiz, Summarizer,) Tj T* (Planner\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.058824 .431373 .337255 RG
+.5 w
+n 0 84 m 481.2283 84 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 84 l S
+n 481.2283 0 m 481.2283 84 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 245.5354 cm
+Q
+q
+1 0 0 1 57.02362 223.5354 cm
+q
+.094118 .372549 .647059 rg
+n 0 22 481.2283 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Week 6\2267) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 152.3685 5 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 1 1 1 rg (Backend & Frontend Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.4809 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 3.869701 0 Td (Upcoming) Tj T* -3.869701 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 121.5354 cm
+q
+.901961 .945098 .984314 rg
+n 0 102 481.2283 -102 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 87 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Deliverable:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 88 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Auth APIs \267 Database setup \267 All UI pages connected to backend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 81 cm
+Q
+q
+1 0 0 1 80.18425 57 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 16 Tm /F1 8 Tf 12 TL (\177 Week 6: Backend \227 JWT auth system, bcrypt password hashing, REST API endpoints, MongoDB Atlas) Tj T* (setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 51 cm
+Q
+q
+1 0 0 1 80.18425 39 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 6: Backend \227 Database schemas for users, quizzes, study plans, and progress data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+Q
+q
+1 0 0 1 80.18425 21 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 7: Frontend \227 Build all UI pages in React.js + Tailwind CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 15 cm
+Q
+q
+1 0 0 1 80.18425 3 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 7: Frontend \227 Connect all pages to backend REST APIs and test data flow) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.094118 .372549 .647059 RG
+.5 w
+n 0 102 m 481.2283 102 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 102 l S
+n 481.2283 0 m 481.2283 102 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 115.5354 cm
+Q
+q
+1 0 0 1 57.02362 93.53543 cm
+q
+.729412 .458824 .090196 rg
+n 0 22 481.2283 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Week 8\2269) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (AI Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 152.3685 5 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 1 1 1 rg (AI Integration & Feature Completion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.4809 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 3.869701 0 Td (Upcoming) Tj T* -3.869701 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 57.53543 cm
+q
+.980392 .933333 .854902 rg
+n 0 36 481.2283 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 21 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Deliverable:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 22 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Chatbot \267 Quiz Generator \267 Summarizer \267 Study Planner \267 Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 15 cm
+Q
+q
+1 0 0 1 80.18425 3 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 8: Integrate AI Chatbot \(Gemini/OpenAI\) with conversation history per student session) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.729412 .458824 .090196 RG
+.5 w
+n 0 36 m 481.2283 36 l S
+n 0 0 m 0 36 l S
+n 481.2283 0 m 481.2283 36 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+0.3 0.3 0.3 rg
+BT
+1 0 0 1 272.0628 20 Tm
+(Page 1 of 2) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 11 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 10014
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 700.5354 cm
+q
+.980392 .933333 .854902 rg
+n 0 90 481.2283 -90 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 87 cm
+Q
+q
+1 0 0 1 80.18425 75 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 8: Build AI Quiz Generator \227 MCQ + short-answer formats, score tracking in database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 69 cm
+Q
+q
+1 0 0 1 80.18425 57 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 8: Implement AI Note Summarizer \227 paste or upload notes, generate concise summaries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 51 cm
+Q
+q
+1 0 0 1 80.18425 39 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 9: Build Personalized Study Planner \227 AI generates structured day-by-day plans) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+Q
+q
+1 0 0 1 80.18425 21 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 9: Complete Progress Dashboard with charts, topic-wise analytics, and engagement metrics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 15 cm
+Q
+q
+1 0 0 1 80.18425 3 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 9: Polish UI, add in-app notification system and Admin Panel) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.729412 .458824 .090196 RG
+.5 w
+n 0 0 m 0 90 l S
+n 481.2283 0 m 481.2283 90 l S
+n 0 0 m 481.2283 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 694.5354 cm
+Q
+q
+1 0 0 1 57.02362 660.5354 cm
+q
+.6 .235294 .113725 rg
+n 0 34 481.2283 -34 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 11 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Week 10\22611) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 5 cm
+q
+BT 1 0 0 1 0 16 Tm 12 TL /F2 8 Tf 1 1 1 rg (QA &) Tj T* (Deployment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 152.3685 11 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 1 1 1 rg (Testing, Debugging & Deployment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.4809 11 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 3.869701 0 Td (Upcoming) Tj T* -3.869701 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 552.5354 cm
+q
+.980392 .92549 .905882 rg
+n 0 108 481.2283 -108 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 93 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Deliverable:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 94 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Testing report \267 Live deployment on Vercel + Render/Railway) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 87 cm
+Q
+q
+1 0 0 1 80.18425 75 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 10: Write test cases, run unit + integration + user acceptance testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 69 cm
+Q
+q
+1 0 0 1 80.18425 57 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 10: Document all bugs and fixes in a testing report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 51 cm
+Q
+q
+1 0 0 1 80.18425 39 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 11: Deploy frontend to Vercel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+Q
+q
+1 0 0 1 80.18425 21 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 11: Deploy backend API to Render / Railway) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 15 cm
+Q
+q
+1 0 0 1 80.18425 3 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 11: Verify live deployment and update README.md with deployment link) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.6 .235294 .113725 RG
+.5 w
+n 0 108 m 481.2283 108 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 108 l S
+n 481.2283 0 m 481.2283 108 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 546.5354 cm
+Q
+q
+1 0 0 1 57.02362 524.5354 cm
+q
+.6 .207843 .337255 rg
+n 0 22 481.2283 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Week 12\22614) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 152.3685 5 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 1 1 1 rg (Documentation, Prep & Final Viva) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.4809 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 3.869701 0 Td (Upcoming) Tj T* -3.869701 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 452.5354 cm
+q
+.984314 .917647 .941176 rg
+n 0 72 481.2283 -72 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 57 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Deliverable:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.18425 58 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Final report \267 User manual \267 API docs \267 Live demo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 51 cm
+Q
+q
+1 0 0 1 80.18425 39 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 12: Write final project report, user manual, and API documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+Q
+q
+1 0 0 1 80.18425 21 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 6 4 Tm /F1 8 Tf 12 TL (\177 Week 13: Prepare presentation slides and rehearse live demonstration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 15 cm
+Q
+q
+1 0 0 1 80.18425 3 cm
+q
+BT 1 0 0 1 6 4 Tm 12 TL /F1 8 Tf .266667 .266667 .254902 rg (\177 Week 14: Final presentation, live demo, and Q) Tj (&A; viva evaluation) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.6 .207843 .337255 RG
+.5 w
+n 0 72 m 481.2283 72 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 72 l S
+n 481.2283 0 m 481.2283 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 446.5354 cm
+Q
+q
+1 0 0 1 57.02362 442.5354 cm
+Q
+q
+1 0 0 1 57.02362 418.5354 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (Technology Stack) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 224.5354 cm
+q
+.266667 .266667 .254902 rg
+n 0 190 481.2283 -22 re f*
+1 1 1 rg
+n 0 168 481.2283 -21 re f*
+.945098 .937255 .909804 rg
+n 0 147 481.2283 -21 re f*
+1 1 1 rg
+n 0 126 481.2283 -21 re f*
+.945098 .937255 .909804 rg
+n 0 105 481.2283 -21 re f*
+1 1 1 rg
+n 0 84 481.2283 -21 re f*
+.945098 .937255 .909804 rg
+n 0 63 481.2283 -21 re f*
+1 1 1 rg
+n 0 42 481.2283 -21 re f*
+.945098 .937255 .909804 rg
+n 0 21 481.2283 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 173 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 173 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Technology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 173 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 8 Tf 12 TL (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 152 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Frontend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 152 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (React.js + Tailwind CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 152 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (User interface and responsive design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 131 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Backend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 131 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Node.js + Express.js) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 131 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (REST API, business logic, authentication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 110 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 110 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (MongoDB + MongoDB Atlas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 110 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Flexible data storage and cloud hosting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 89 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (AI Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 89 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Gemini API / OpenAI API) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 89 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Chatbot, quiz generation, summarization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 68 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Authentication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 68 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (JWT + bcrypt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 68 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Secure login and session management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 47 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Frontend Deploy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 47 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Vercel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 47 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Fast, free frontend hosting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 26 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Backend Deploy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 26 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Render / Railway) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 26 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Free backend API hosting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 5 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Version Control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2457 5 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 248.6142 5 cm
+q
+.266667 .266667 .254902 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Code management and team collaboration) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.705882 .698039 .662745 RG
+.5 w
+n 0 190 m 481.2283 190 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 190 l S
+n 481.2283 0 m 481.2283 190 l S
+.827451 .819608 .780392 RG
+n 0 168 m 481.2283 168 l S
+n 0 147 m 481.2283 147 l S
+n 0 126 m 481.2283 126 l S
+n 0 105 m 481.2283 105 l S
+n 0 84 m 481.2283 84 l S
+n 0 63 m 481.2283 63 l S
+n 0 42 m 481.2283 42 l S
+n 0 21 m 481.2283 21 l S
+n 96.24567 0 m 96.24567 190 l S
+n 240.6142 0 m 240.6142 190 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 210.5354 cm
+Q
+q
+1 0 0 1 57.02362 209.0354 cm
+q
+.5 w
+1 J
+.533333 .529412 .501961 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 204.0354 cm
+Q
+q
+1 0 0 1 57.02362 192.0354 cm
+q
+.533333 .529412 .501961 rg
+BT 1 0 0 1 0 5 Tm /F1 7 Tf 12 TL 1.207173 0 Td (CSE4104-7C-T05 | AI Academic Mentor | CSE 4104 \227 Software Development III | Northern University of Business and Technology, Khulna | 25 May 2026) Tj T* -1.207173 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+0.3 0.3 0.3 rg
+BT
+1 0 0 1 272.0628 20 Tm
+(Page 2 of 2) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000168 00000 n 
+0000000411 00000 n 
+0000012540 00000 n 
+0000012647 00000 n 
+0000012754 00000 n 
+0000012866 00000 n 
+0000013111 00000 n 
+0000023179 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+23287
+%%EOF
