@@ -1,3 +1,4 @@
+> **Course:** CSE 4104 | **Semester:** Spring 2026 | **Instructor:** Md. Riaz Mahmud
 # CSE4104-7C-T05-AI-Academic-Mentor
 # 🧠 AI Academic Mentor- Personalized Learning Assistant for Students
 
