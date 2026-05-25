@@ -131,5 +131,11 @@ cse4104-7c-t05-ai-academic-mentor/
 │
 └── README.md                      # This file
 ```
+---
 
+## 👨‍🏫 Instructor
 
+**Md. Riaz Mahmud**  
+*Assistant Professor*  
+Department of Computer Science and Engineering  
+Northern University of Business and Technology, Khulna
