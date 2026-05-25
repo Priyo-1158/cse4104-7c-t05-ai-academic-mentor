@@ -10,13 +10,12 @@
 | **Team Name** | CSE4104-7C-T05 |
 | **Section** | 7C |
 | **Project Title** | AI Academic Mentor |
-| **Team Leader** | Shadman Sadequeen Privo - ID: 11230121158 |
 
 ### 👥 Team Members
 
 | Role | Name | Student ID |
 |------|------|-------------|
-| Team Leader | Shadman Sadequeen Privo | 11230121158 |
+| Team Leader | Shadman Sadequeen Priyo | 11230121158 |
 | Frontend Developer | Musabbir Hossain Chayon | 11230121168 |
 | Backend Developer | Sk. Nadirul Haque Nadir | 11230121155 |
 | AI Integration Lead | Shafin Kabir | 11230121175 |
