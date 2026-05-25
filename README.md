@@ -114,4 +114,5 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure # Project Structure
+
