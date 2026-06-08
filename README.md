@@ -120,8 +120,6 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 cse4104-7c-t05-ai-academic-mentor/
 │
 ├── documentation/                 # All project documents
-│   ├── CSE4104-7C-T05_Proposal.pdf
-│   └── CSE4104-7C-T05_TeamInfo.pdf
 │
 ├── frontend/                      # React app (Week 7)
 │
