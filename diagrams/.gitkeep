@@ -1,0 +1,11 @@
+# System Diagrams Folder
+
+This folder stores all system design diagrams for AI Academic Mentor.
+
+## Diagrams included:
+- architecture-diagram.png - System Architecture Diagram
+- er-diagram.png - ER Diagram (Database Design)
+- usecase-diagram.png - Updated Use Case Diagram
+- activity-diagram.png - Activity Diagram (AI Chatbot Workflow)
+
+## Last Updated: 15 june , 2026
