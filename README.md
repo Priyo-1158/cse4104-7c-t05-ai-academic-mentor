@@ -1,6 +1,6 @@
 > **Course:** CSE 4104 | **Semester:** Spring 2026 | **Instructor:** Md. Riaz Mahmud
-# CSE4104-7C-T05-AI-Academic-Mentor
-# 🧠 AI Academic Mentor- Personalized Learning Assistant for Students
+
+# 🧠 AI Academic Mentor - Personalized Learning Assistant for Students
 
 ---
 
@@ -115,20 +115,37 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 ---
 
 ## 📁 Project Structure
-
-```
 cse4104-7c-t05-ai-academic-mentor/
 │
-├── documentation/                 # All project documents
-│
-├── frontend/                      # React app (Week 7)
-│
-├── backend/                       # Node.js API (Week 6)
-│
-├── screenshots/                   # UI images (Week 5)
-│
-└── README.md                      # This file
-```
+├── backend/ # Node.js API (Week 6)
+├── diagrams/ # System diagrams (Week 4)
+├── documentation/ # All project documents (PDFs)
+├── frontend/ # React app (Week 7)
+├── screenshots/ # UI images (Week 5)
+├── .gitignore
+├── LICENSE
+└── README.md # This file
+
+---
+
+## 📊 Week 4 Progress: System Design (Completed)
+
+### Deliverables Completed
+- ✅ System Design Document (PDF)
+- ✅ System Architecture Diagram
+- ✅ ER Diagram (Database Design)
+- ✅ Updated Use Case Diagram
+- ✅ Activity Diagram (AI Chatbot Workflow)
+- ✅ API Design Document
+- ✅ AI Integration Workflow
+
+
+### Next Steps
+- **Week 5:** UI/UX Design (Figma Wireframes)
+- **Week 6:** Backend Development
+- **Week 7:** Frontend Development
+- **Week 8:** AI Integration
+
 ---
 
 ## 👨‍🏫 Instructor
@@ -137,3 +154,7 @@ cse4104-7c-t05-ai-academic-mentor/
 *Assistant Professor*  
 Department of Computer Science and Engineering  
 Northern University of Business and Technology, Khulna
+
+---
+
+**Last Updated:** 15 June , 2026
