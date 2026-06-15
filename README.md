@@ -115,7 +115,6 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 ---
 ## 📁 Project Structure
 
-```text
 cse4104-7c-t05-ai-academic-mentor/
 │
 ├── backend/          # Node.js API (Week 6)
