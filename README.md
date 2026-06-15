@@ -112,7 +112,7 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 | Render | Backend hosting |
 | MongoDB Atlas | Database hosting |
 
----
+``` 
 ## 📁 Project Structure
 
 cse4104-7c-t05-ai-academic-mentor/
@@ -133,7 +133,7 @@ cse4104-7c-t05-ai-academic-mentor/
 │
 └── README.md         # This file
 
----
+``` 
 
 ## 📊 Week 4 Progress: System Design (Completed)
 
