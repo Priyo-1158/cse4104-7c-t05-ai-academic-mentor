@@ -112,9 +112,47 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 | Render | Backend hosting |
 | MongoDB Atlas | Database hosting |
 
-``` 
-## 📁 Project Structure
+---
 
+## 🚀 Project Setup Instructions
+
+### Prerequisites
+
+| Tool | Version | Purpose |
+|------|---------|---------|
+| Node.js | v18+ | JavaScript runtime |
+| npm | v9+ | Package manager |
+| MongoDB | v6+ | Database |
+| Git | Latest | Version control |
+
+### Installation Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Priyo-1158/cse4104-7c-t05-ai-academic-mentor.git
+
+# 2. Navigate to project
+cd cse4104-7c-t05-ai-academic-mentor
+
+# 3. Install Backend Dependencies
+cd backend
+npm install
+
+# 4. Create .env file (copy from .env.example)
+cp .env.example .env
+
+# 5. Run Backend Server
+npm run dev
+
+# 6. Install Frontend Dependencies (new terminal)
+cd ../frontend
+npm install
+
+# 7. Run Frontend App
+npm start
+```
+## 📁 Project Structure
+```
 cse4104-7c-t05-ai-academic-mentor/
 │
 ├── backend/          # Node.js API (Week 6)
@@ -133,7 +171,7 @@ cse4104-7c-t05-ai-academic-mentor/
 │
 └── README.md         # This file
 
-``` 
+```
 
 ## 📊 Week 5 Progress: UI/UX Design (Completed)
 
