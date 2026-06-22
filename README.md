@@ -145,6 +145,14 @@ cse4104-7c-t05-ai-academic-mentor/
 | 2 | UI Screenshots | ✅ Done |
 | 3 | Development Roadmap | ✅ Done |
 
+### 📁 Files Location
+
+| File | Location |
+|------|----------|
+| UI/UX Design Document | [`documentation/CSE4104-7C-T05_UIDesign.pdf`](./documentation/CSE4104-7C-T05_UIDesign.pdf) |
+| **Figma Design Link** | [https://tech-poise-17998119.figma.site/](https://tech-poise-17998119.figma.site/) |
+| Design Screenshots | [`design/`](./design) folder |
+
 
 ### Next Steps
 
