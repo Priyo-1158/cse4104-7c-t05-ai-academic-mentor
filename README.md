@@ -135,20 +135,19 @@ cse4104-7c-t05-ai-academic-mentor/
 
 ``` 
 
-## 📊 Week 4 Progress: System Design (Completed)
+## 📊 Week 5 Progress: UI/UX Design (Completed)
 
-### Deliverables Completed
-- ✅ System Design Document (PDF)
-- ✅ System Architecture Diagram
-- ✅ ER Diagram (Database Design)
-- ✅ Updated Use Case Diagram
-- ✅ Activity Diagram (AI Chatbot Workflow)
-- ✅ API Design Document
-- ✅ AI Integration Workflow
+### ✅ Deliverables Completed
+
+| # | Deliverable | Status |
+|---|-------------|--------|
+| 1 | Figma Designs | ✅ Done |
+| 2 | UI Screenshots | ✅ Done |
+| 3 | Development Roadmap | ✅ Done |
 
 
 ### Next Steps
-- **Week 5:** UI/UX Design (Figma Wireframes)
+
 - **Week 6:** Backend Development
 - **Week 7:** Frontend Development
 - **Week 8:** AI Integration
