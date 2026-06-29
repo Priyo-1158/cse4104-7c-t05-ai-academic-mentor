@@ -194,7 +194,6 @@ cse4104-7c-t05-ai-academic-mentor/
 
 ### Next Steps
 
-- **Week 6:** Backend Development
 - **Week 7:** Frontend Development
 - **Week 8:** AI Integration
 
@@ -209,4 +208,4 @@ Northern University of Business and Technology, Khulna
 
 ---
 
-**Last Updated:** 22 June , 2026
+**Last Updated:** 29 June , 2026
