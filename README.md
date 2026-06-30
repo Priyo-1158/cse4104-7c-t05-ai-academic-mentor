@@ -104,6 +104,7 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 | Gemini API | Primary AI for chatbot (free tier) |
 | OpenAI API | Backup AI for content generation |
 | LangChain | AI workflow orchestration |
+| Hugging Face | Open-Source AI Model Hub | 
 
 ### Deployment
 | Technology | Purpose |
