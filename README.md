@@ -178,7 +178,7 @@ cse4104-7c-t05-ai-academic-mentor/
 
 ### ✅ Deliverables Completed
 
-| # | Deliverable | Status |
+| SL No | Deliverable | Status |
 |---|-------------|--------|
 | 1 | Figma Designs | ✅ Done |
 | 2 | UI Screenshots | ✅ Done |
