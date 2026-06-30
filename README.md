@@ -27,7 +27,7 @@
 
 ### Problem Statement
 
-Students face multiple challenges in their academic journey:
+Students face multiple challenges in their academic journey :
 
 - 📅 **Difficulty organizing study schedules** - No structured approach to manage multiple subjects and deadlines
 - 📚 **Lack of personalized learning resources** - Generic study materials don't adapt to individual learning pace
@@ -37,7 +37,7 @@ Students face multiple challenges in their academic journey:
 
 ### 💡 Our Solution
 
-**AI Academic Mentor** is an intelligent learning assistant that:
+**AI Academic Mentor** is an intelligent learning assistant that :
 
 - Provides personalized study recommendations based on student performance
 - Answers academic questions using state-of-the-art AI (Gemini/OpenAI)
@@ -47,7 +47,7 @@ Students face multiple challenges in their academic journey:
 
 ### 🤖 Why AI is Essential
 
-Traditional learning systems are static and one-size-fits-all. AI makes AI Academic Mentor:
+Traditional learning systems are static and one-size-fits-all. AI makes AI Academic Mentor :
 
 | Benefit | Description |
 |---------|-------------|
