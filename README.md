@@ -14,7 +14,7 @@
 
 ### 👥 Team Members
 
-| Role | Name | Student ID |
+| Role | Full Name | Student ID |
 |------|------|-------------|
 | Team Leader | Shadman Sadequeen Priyo | 11230121158 |
 | Frontend Developer | Musabbir Hossain Chayon | 11230121168 |
