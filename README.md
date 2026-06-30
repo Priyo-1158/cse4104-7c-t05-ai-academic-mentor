@@ -61,7 +61,7 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 
 ## ✨ Proposed Features
 
-| # | Feature | Description |
+| SL No | Feature | Description |
 |---|---------|-------------|
 | 1 | 🔐 **User Authentication** | Secure registration and login with JWT tokens |
 | 2 | 💬 **AI Chatbot** | Real-time Q&A using Gemini API / OpenAI |
