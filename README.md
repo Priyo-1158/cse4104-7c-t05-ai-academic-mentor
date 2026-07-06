@@ -202,7 +202,7 @@ cse4104-7c-t05-ai-academic-mentor/
 |------|----------|
 | Frontend Source Code | [`frontend/`](./frontend) |
 | Frontend Progress Report | [`documentation/CSE4104-7C-T05_FrontendProgress.pdf`](./documentation/CSE4104-7C-T05_FrontendProgress.pdf) |
-| UI Screenshots    | [`screenshots/`](./screenshots)    |
+| UI Screenshots | [View Screenshots](https://github.com/Priyo-1158/cse4104-7c-t05-ai-academic-mentor/tree/main/screenshots) |
 
 ### 🌐 Live Demo
 
