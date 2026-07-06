@@ -164,7 +164,7 @@ cse4104-7c-t05-ai-academic-mentor/
 │
 ├── frontend/         # React app (Week 7)
 │
-├── screenshots/      # UI images (Week 5)
+├── screenshots/      # frontend images (Week 7)
 │
 ├── .gitignore
 │
@@ -202,7 +202,6 @@ cse4104-7c-t05-ai-academic-mentor/
 |------|----------|
 | Frontend Source Code | [`frontend/`](./frontend) |
 | Frontend Progress Report | [`documentation/CSE4104-7C-T05_FrontendProgress.pdf`](./documentation/CSE4104-7C-T05_FrontendProgress.pdf) |
-| UI Screenshots | [View Screenshots](https://github.com/Priyo-1158/cse4104-7c-t05-ai-academic-mentor/tree/main/screenshots) |
 
 ### 🌐 Live Demo
 
