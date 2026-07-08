@@ -183,8 +183,10 @@ cse4104-7c-t05-ai-academic-mentor/
 │
 ├── frontend/         # React app (Week 7)
 │
-├── screenshots/      # frontend images (Week 7)
-│
+├── screenshots/      # Frontend images (Week 7)
+|                 
+|── assets            # Logo design
+|
 ├── .gitignore
 │
 ├── LICENSE
@@ -197,7 +199,7 @@ cse4104-7c-t05-ai-academic-mentor/
 
 ### ✅ Deliverables Completed
 
-| # | Deliverable | Status |
+| SL No | Deliverable | Status |
 |---|-------------|--------|
 | 1 | Frontend Project Setup (React.js + Tailwind CSS) | ✅ Done |
 | 2 | Landing/Home Page | ✅ Done |
