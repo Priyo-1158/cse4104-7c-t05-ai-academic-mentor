@@ -79,7 +79,7 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 ### Frontend
 | Technology | Purpose |
 |------------|---------|
-| React.js | User Interface development |
+| React.js 19.2.7 | User Interface development |
 | Tailwind CSS | Styling and responsive design |
 | Axios | API calls and HTTP requests |
 | Figma | UI/UX design and prototyping |
