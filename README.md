@@ -9,6 +9,8 @@
 # 🧠 **AI Academic Mentor**
 ### Personalized Learning Assistant for Students
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white" alt="Node.js" height="40"/>
   <img src="https://img.shields.io/badge/Express-4.18-000000?logo=express&logoColor=white" alt="Express" height="40"/>
@@ -19,7 +21,10 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" height="40"/>
   <img src="https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="40"/>
   <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?logo=render&logoColor=white" alt="Render" height="40"/>
+  <img src="https://img.shields.io/badge/AI-Gemini-4285F4?logo=google&logoColor=white" alt="Gemini" height="40"/>
+  <img src="https://img.shields.io/badge/AI-HuggingFace-FFCC00?logo=huggingface&logoColor=black" alt="Hugging Face" height="40"/>
 </p>
+
 
 </div>
 
