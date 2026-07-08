@@ -4,7 +4,7 @@
        alt="AI Academic Mentor Logo" width="350" />
 </p>
 <div align="center">
-
+# 🧠 **AI Academic Mentor**
 # ✨ Personalized Learning Assistant for Students
 
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)
