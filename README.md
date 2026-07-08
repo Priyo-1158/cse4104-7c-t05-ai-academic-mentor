@@ -253,7 +253,7 @@ Northern University of Business and Technology, Khulna
 
 ## 📄 License  
 
-📜 **MIT License** ( declared in `backend/package.json`)  
+📜 **MIT License** ( Declared in `backend/package.json`)  
 🕒 **Last Updated:** July 09, 2026  
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
