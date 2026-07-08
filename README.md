@@ -81,8 +81,11 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 |------------|---------|
 | React.js 19.2.7 | User Interface development |
 | Vite 8.1.1 | Frontend build tool and development server |
+| React Router DOM | Client-side routing |
 | Axios | API calls and HTTP requests |
-| Figma | UI/UX design and prototyping |
+| CSS3 | Styling and responsive design |
+| JavaScript (ES6+) | Frontend application logic |
+
 
 ### Backend
 | Technology | Purpose |
