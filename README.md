@@ -195,27 +195,28 @@ cse4104-7c-t05-ai-academic-mentor/
 
 ```
 
-## 📊 Week 7 Progress: Frontend Development (Completed)
+## 📊 Week 7 Progress: Frontend Development (✅ Completed)
 
-### ✅ Deliverables Completed
+### ✅ Deliverables Completed  
 
-| SL No | Deliverable | Status |
-|---|-------------|--------|
-| 1 | Frontend Project Setup (React.js + Tailwind CSS) | ✅ Done |
-| 2 | Landing/Home Page | ✅ Done |
-| 3 | Login Page | ✅ Done |
-| 4 | Registration Page | ✅ Done |
-| 5 | Dashboard | ✅ Done |
-| 6 | User Profile Page | ✅ Done |
-| 7 | AI Chatbot Page | ✅ Done |
-| 8 | Quiz Generator Page | ✅ Done |
-| 9 | Note Summarizer Page | ✅ Done |
-| 10 | Study Planner Page | ✅ Done |
-| 11 | Backend API Integration (Axios) | ✅ Done |
-| 12 | Authentication Flow (JWT) | ✅ Done |
-| 13 | Protected Routes | ✅ Done |
-| 14 | Form Validation | ✅ Done |
-| 15 | Responsive Design | ✅ Done |
+| 🔢 SL No | 📌 Deliverable | 📊 Status |
+|----------|----------------|-----------|
+| 1 | ⚛️ Frontend Project Setup (React.js + Tailwind CSS) | ✅ Done |
+| 2 | 🏠 Landing/Home Page | ✅ Done |
+| 3 | 🔑 Login Page | ✅ Done |
+| 4 | 📝 Registration Page | ✅ Done |
+| 5 | 📊 Dashboard | ✅ Done |
+| 6 | 👤 User Profile Page | ✅ Done |
+| 7 | 🤖 AI Chatbot Page | ✅ Done |
+| 8 | 📝 Quiz Generator Page | ✅ Done |
+| 9 | 📄 Note Summarizer Page | ✅ Done |
+| 10 | 📅 Study Planner Page | ✅ Done |
+| 11 | 🌐 Backend API Integration (Axios) | ✅ Done |
+| 12 | 🔒 Authentication Flow (JWT) | ✅ Done |
+| 13 | 🛡️ Protected Routes | ✅ Done |
+| 14 | ✅ Form Validation | ✅ Done |
+| 15 | 📱 Responsive Design | ✅ Done |
+
 
 ### 📁 Files Location
 
