@@ -201,7 +201,7 @@ cse4104-7c-t05-ai-academic-mentor/
 
 | 🔢 SL No | 📌 Deliverable | 📊 Status |
 |----------|----------------|-----------|
-| 1 | ⚛️ Frontend Project Setup (React.js + Tailwind CSS) | ✅ Done |
+| 1 | ⚛️ Frontend Project Setup ( React.js ) | ✅ Done |
 | 2 | 🏠 Landing/Home Page | ✅ Done |
 | 3 | 🔑 Login Page | ✅ Done |
 | 4 | 📝 Registration Page | ✅ Done |
