@@ -133,7 +133,6 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 | MongoDB | v6+ | NoSQL database |
 | Git | Latest | Version control |
 | Visual Studio Code | Latest | Source code editor |
-| GitHub | Source code hosting and collaboration |
 
 ### Installation Steps
 
