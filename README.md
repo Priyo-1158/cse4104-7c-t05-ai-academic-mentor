@@ -118,7 +118,7 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 |------------|---------|
 | Vercel | Frontend hosting |
 | Render | Backend hosting |
-| MongoDB Atlas | Database hosting |
+| MongoDB Atlas | Cloud database hosting |
 
 ---
 
