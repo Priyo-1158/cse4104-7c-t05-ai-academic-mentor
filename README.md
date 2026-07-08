@@ -10,7 +10,6 @@
 
 ---
 
-## ⚙️ Technology Stack Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white" alt="Node.js" height="40"/>
