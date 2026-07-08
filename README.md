@@ -4,8 +4,11 @@
 # 🧠 AI Academic Mentor
 ### Personalized Learning Assistant for Students
 
-CSE 4104 — Software Development III · Spring 2026
-Northern University of Business & Technology, Khulna (NUBTK)
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.00810b37-0aee-41de-980c-9648f0815e53.png" 
+       alt="AI Academic Mentor Logo" width="280" />
+</p>
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.18-000000?logo=express&logoColor=white)
