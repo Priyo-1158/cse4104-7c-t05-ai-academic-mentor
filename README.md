@@ -1,4 +1,4 @@
-> **Course:** CSE 4104 | **Semester:** Spring 2026 | Northern University of Business & Technology, Khulna (NUBTK)  | README.md
+> **Course:** CSE 4104 | **Semester:** Spring 2026 | Northern University of Business & Technology, Khulna (NUBTK)
 <p align="center" style="margin-bottom:-15px;">
   <img src="assets/logo.png"
        alt="AI Academic Mentor Logo" width="400" />
