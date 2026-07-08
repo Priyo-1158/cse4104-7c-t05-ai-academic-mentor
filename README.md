@@ -135,15 +135,15 @@ A full‑stack assistant with:
 
 ## 🚀 Project Setup Instructions
 
-### Prerequisites
+### 📋 Prerequisites
 
-| Tool | Version | Purpose |
+| 🛠️ Tool | 📦 Version | 🎯 Purpose |
 |------|---------|---------|
-| Node.js | v18+ | JavaScript runtime |
-| npm | v9+ | Package manager |
-| MongoDB | v6+ | NoSQL database |
-| Git | Latest | Version control |
-| Visual Studio Code | Latest | Source code editor |
+| 🟢 Node.js | v18+ | JavaScript runtime |
+| 📦 npm | v9+ | Package manager |
+| 🍃 MongoDB | v6+ | NoSQL database |
+| 🔧 Git | Latest | Version control |
+| 💻 Visual Studio Code | Latest | Source code editor |
 
 ### Installation Steps
 
