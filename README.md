@@ -1,4 +1,4 @@
-> **Course:** CSE 4104 | **Semester:** Spring 2026 | **Instructor:** Md. Riaz Mahmud | Northern University of Business & Technology, Khulna (NUBTK)
+> **Course:** CSE 4104 | **Semester:** Spring 2026 | Northern University of Business & Technology, Khulna (NUBTK)
 <p align="center" style="margin-bottom:-15px;">
   <img src="assets/logo.png"
        alt="AI Academic Mentor Logo" width="400" />
@@ -24,22 +24,22 @@
 </div>
 
 ---
-## 📋 Team Information
+## 👥 Team Information
 
 | Field | Details |
-|-------|---------|
-| **Team Name** | CSE4104-7C-T05 |
+|---|---|
+| **Team** | CSE4104-7C-T05 |
 | **Section** | 7C |
-| **Project Title** | AI Academic Mentor |
+| **Instructor** | Md. Riaz Mahmud, Assistant Professor, Dept. of CSE, NUBTK |
 
-### 👥 Team Members
+### 👨‍💻 Team Members
 
-| Role | Full Name | Student ID |
-|------|------|-------------|
-| Team Leader | Shadman Sadequeen Priyo | 11230121158 |
-| Frontend Developer | Musabbir Hossain Chayon | 11230121168 |
-| Backend Developer | Sk. Nadirul Haque Nadir | 11230121155 |
-| AI Integration Lead | Shafin Kabir | 11230121175 |
+| 🏅 Role | 👤 Name | 🎓 Student ID |
+|---|---|---|
+| ⭐ Team Leader | Shadman Sadequeen Priyo | 11230121158 |
+| 🎨 Frontend Developer | Musabbir Hossain Chayon | 11230121168 |
+| ⚙️ Backend Developer | Sk. Nadirul Haque Nadir | 11230121155 |
+| 🤖 AI Integration Lead | Shafin Kabir | 11230121175 |
 
 ---
 
