@@ -6,7 +6,7 @@
 <div align="center">
 
 # 🧠 **AI Academic Mentor**
-## ✨ Personalized Learning Assistant for Students
+### Personalized Learning Assistant for Students
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white" alt="Node.js" height="40"/>
