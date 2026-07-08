@@ -130,8 +130,10 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 |------|---------|---------|
 | Node.js | v18+ | JavaScript runtime |
 | npm | v9+ | Package manager |
-| MongoDB | v6+ | Database |
+| MongoDB | v6+ | NoSQL database |
 | Git | Latest | Version control |
+| Visual Studio Code | Latest | Source code editor |
+| GitHub | Source code hosting and collaboration |
 
 ### Installation Steps
 
