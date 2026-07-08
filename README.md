@@ -7,7 +7,7 @@
 
 # 🧠 **AI Academic Mentor**
 ### ✨ Personalized Learning Assistant for Students
-
+---
 ## 📋 Team Information
 
 | Field | Details |
