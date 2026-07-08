@@ -162,14 +162,14 @@ npm install
 cp .env.example .env
 
 # 5. Run Backend Server
-npm run dev
+npm start
 
 # 6. Install Frontend Dependencies (new terminal)
 cd ../frontend
 npm install
 
 # 7. Run Frontend App
-npm start
+npm run dev 
 ```
 ## 📁 Project Structure
 ```
