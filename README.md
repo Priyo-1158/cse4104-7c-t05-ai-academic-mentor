@@ -51,7 +51,7 @@ Students struggle with:
 - ❓ No instant academic Q&A  
 - 📊 Lack of feedback on strengths/weaknesses  
 
----
+
 
 ## 💡 Our Solution
 
