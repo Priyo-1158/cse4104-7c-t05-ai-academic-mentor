@@ -1,9 +1,22 @@
-> **Course:** CSE 4104 | **Semester:** Spring 2026 | **Instructor:** Md. Riaz Mahmud
+<div align="center">
 
-# 🧠 AI Academic Mentor - Personalized Learning Assistant for Students
+# 🧠 AI Academic Mentor
+### Personalized Learning Assistant for Students
+
+CSE 4104 — Software Development III · Spring 2026
+Northern University of Business & Technology, Khulna (NUBTK)
+
+![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4.18-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+</div>
 
 ---
-
 ## 📋 Team Information
 
 | Field | Details |
