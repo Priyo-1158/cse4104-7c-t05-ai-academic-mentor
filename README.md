@@ -110,7 +110,7 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 ### AI Integration
 | Technology | Purpose |
 |------------|---------|
-| Google Gemini API | Primary AI engine for chatbot, quiz generation, study planner, and academic assistance |
+| Google Gemini API | Primary AI engine for chatbot, quiz generation, study planner, notes summarization, and academic assistance |
 | Hugging Face Inference API | Backup AI model for inference and content generation |
 
 ### Deployment
