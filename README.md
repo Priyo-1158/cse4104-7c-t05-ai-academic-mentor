@@ -92,8 +92,14 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 |------------|---------|
 | Node.js | JavaScript runtime environment |
 | Express.js | REST API framework |
-| JWT | Authentication and authorization |
-| bcrypt | Password hashing and security |
+| JSON Web Token (JWT) | Authentication and authorization |
+| bcryptjs | Password hashing and security |
+| CORS | Cross-Origin Resource Sharing |
+| dotenv | Environment variable management |
+| Helmet | HTTP security middleware |
+| Morgan | HTTP request logging |
+| Express Rate Limit | API rate limiting and security |
+
 
 ### Database
 | Technology | Purpose |
