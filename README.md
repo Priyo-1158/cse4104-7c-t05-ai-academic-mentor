@@ -187,7 +187,7 @@ cse4104-7c-t05-ai-academic-mentor/
 |                 
 |── assets            # Logo design
 |
-├── .gitignore
+├──.gitignore
 │
 ├── LICENSE
 │
