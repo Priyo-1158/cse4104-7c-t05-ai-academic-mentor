@@ -45,16 +45,13 @@
 
 ## 🎯 Project Overview
 
-### Problem Statement
+## 🎯 Problem Statement
 
-Students face multiple challenges in their academic journey :
-
-- 📅 **Difficulty organizing study schedules** - No structured approach to manage multiple subjects and deadlines
-- 📚 **Lack of personalized learning resources** - Generic study materials don't adapt to individual learning pace
-- ❓ **No intelligent system for academic queries** - Questions arise at odd hours with no one to help
-- 📖 **Struggles with complex subject matter** - Traditional methods lack AI-powered simplification
-- 📊 **No feedback mechanism for progress** - Students don't know their strengths and weaknesses
-
+Students struggle with:
+- 📅 Unstructured study schedules  
+- 📚 Generic materials not adapting to pace  
+- ❓ No instant academic Q&A  
+- 📊 Lack of feedback on strengths/weaknesses  
 ### 💡 Our Solution
 
 **AI Academic Mentor** is an intelligent learning assistant that :
