@@ -47,11 +47,13 @@
 
 ## 🎯 Problem Statement
 
-Students struggle with:
-- 📅 Unstructured study schedules  
-- 📚 Generic materials not adapting to pace  
-- ❓ No instant academic Q&A  
-- 📊 Lack of feedback on strengths/weaknesses  
+Students face recurring friction in self-directed learning:
+
+- 📅 No structured way to organize study schedules across multiple subjects and deadlines
+- 📚 Generic study materials that don't adapt to individual pace
+- ❓ Academic questions that come up at odd hours with no one available to answer
+- 📊 No easy feedback loop to see personal strengths and weak areas
+ 
 ### 💡 Our Solution
 
 **AI Academic Mentor** is an intelligent learning assistant that :
