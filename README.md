@@ -90,46 +90,46 @@ A full‑stack assistant with:
 ### Frontend
 | Technology | Purpose |
 |------------|---------|
-| React.js 19.2.7 | User Interface development |
-| Vite 8.1.1 | Frontend build tool and development server |
-| React Router DOM | Client-side routing |
-| Axios | API calls and HTTP requests |
-| CSS3 | Styling and responsive design |
-| JavaScript (ES6+) | Frontend application logic |
+| ⚛️ React.js 19.2.7 | User Interface development |
+| ⚡ Vite 8.1.1 | Frontend build tool and development server |
+| 🛣️ React Router DOM | Client-side routing |
+| 🌐 Axios | API calls and HTTP requests |
+| 🎨 CSS3 | Styling and responsive design |
+| 📜 JavaScript (ES6+) | Frontend application logic |
 
 
 ### Backend
 | Technology | Purpose |
 |------------|---------|
-| Node.js | JavaScript runtime environment |
-| Express.js | REST API framework |
-| JSON Web Token (JWT) | Authentication and authorization |
-| bcryptjs | Password hashing and security |
-| CORS | Cross-Origin Resource Sharing |
-| dotenv | Environment variable management |
-| Helmet | HTTP security middleware |
-| Morgan | HTTP request logging |
-| Express Rate Limit | API rate limiting and security |
+| 🟢 Node.js | JavaScript runtime environment |
+| 🚏 Express.js | REST API framework |
+| 🔑 JSON Web Token (JWT) | Authentication and authorization |
+| 🔒 bcryptjs | Password hashing and security |
+| 🌍 CORS | Cross-Origin Resource Sharing |
+| ⚙️ dotenv | Environment variable management |
+| 🛡️ Helmet | HTTP security middleware |
+| 📑 Morgan | HTTP request logging |
+| ⏱️ Express Rate Limit | API rate limiting and security |
 
 
 ### Database
 | Technology | Purpose |
 |------------|---------|
-| MongoDB | Primary NoSQL database |
-| Mongoose | ODM for database operations |
+| 🍃 MongoDB | Primary NoSQL database |
+| 🔗 Mongoose | ODM for database operations |
 
 ### AI Integration
 | Technology | Purpose |
 |------------|---------|
-| Google Gemini API | Primary AI engine for chatbot, quiz generation, study planner, notes summarization, and academic assistance |
-| Hugging Face Inference API | Backup AI model for inference and content generation |
+| 🌐 Google Gemini API | Primary AI engine for chatbot, quiz generation, study planner, notes summarization, and academic assistance |
+| 🤗 Hugging Face Inference API | Backup AI model for inference and content generation |
 
 ### Deployment
 | Technology | Purpose |
 |------------|---------|
-| Vercel | Frontend hosting |
-| Render | Backend hosting |
-| MongoDB Atlas | Cloud database hosting |
+| ▲ Vercel | Frontend hosting |
+| 🟩 Render | Backend hosting |
+| ☁️ MongoDB Atlas | Cloud database hosting |
 
 ---
 
