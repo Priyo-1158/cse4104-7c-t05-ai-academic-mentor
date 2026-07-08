@@ -5,8 +5,8 @@
 </p>
 <div align="center">
 
-# 🧠 AI Academic Mentor
-### Personalized Learning Assistant for Students
+# ✨ Personalized Learning Assistant for Students
+
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.18-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
