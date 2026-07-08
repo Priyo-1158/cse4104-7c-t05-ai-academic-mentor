@@ -1,13 +1,19 @@
 > **Course:** CSE 4104 | **Semester:** Spring 2026 | **Instructor:** Md. Riaz Mahmud | Northern University of Business & Technology, Khulna (NUBTK)
 <p align="center" style="margin-bottom:-10px;">
   <img src="https://copilot.microsoft.com/th/id/BCO.00810b37-0aee-41de-980c-9648f0815e53.png" 
-       alt="AI Academic Mentor Logo" width="400" />
+       alt="AI Academic Mentor Logo" width="260" />
 </p>
 
 <div align="center">
 
 # 🧠 **AI Academic Mentor**
 ### ✨ Personalized Learning Assistant for Students
+
+</div>
+
+---
+
+## ⚙️ Technology Stack Badges
 
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.18-000000?logo=express&logoColor=white)
@@ -16,8 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-</div>
 
 
 ---
