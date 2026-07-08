@@ -26,7 +26,7 @@
 ---
 ## 👥 Team Information
 
-| Field | Details |
+|Field | Details |
 |---|---|
 | **Team** | CSE4104-7C-T05 |
 | **Section** | 7C |
