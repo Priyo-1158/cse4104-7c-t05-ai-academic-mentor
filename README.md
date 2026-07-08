@@ -8,6 +8,10 @@
 # 🧠 **AI Academic Mentor**
 ## ✨ Personalized Learning Assistant for Students
 
+---
+
+## ⚙️ Technology Stack Badges
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white" alt="Node.js" height="40"/>
   <img src="https://img.shields.io/badge/Express-4.18-000000?logo=express&logoColor=white" alt="Express" height="40"/>
@@ -17,6 +21,7 @@
   <img src="https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens" alt="JWT" height="40"/>
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" height="40"/>
 </p>
+
 
 
 </div>
