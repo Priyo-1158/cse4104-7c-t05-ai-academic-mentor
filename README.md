@@ -110,10 +110,8 @@ Traditional learning systems are static and one-size-fits-all. AI makes AI Acade
 ### AI Integration
 | Technology | Purpose |
 |------------|---------|
-| Gemini API | Primary AI for chatbot (free tier) |
-| OpenAI API | Backup AI for content generation |
-| LangChain | AI workflow orchestration |
-| Hugging Face | Open-Source AI Model Hub | 
+| Google Gemini API | Primary AI engine for chatbot, quiz generation, study planner, and academic assistance |
+| Hugging Face Inference API | Backup AI model for inference and content generation |
 
 ### Deployment
 | Technology | Purpose |
