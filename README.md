@@ -71,7 +71,7 @@ A full‑stack assistant with:
 ---
 ## ✨ Features
 
-| 🔢 SL No | Feature | Description |
+| # | Feature | Description |
 |---|---|---|
 | 🔐 | User Authentication | Secure JWT login/logout |
 | 💬 | AI Chatbot | Real-time Q&A via Gemini |
