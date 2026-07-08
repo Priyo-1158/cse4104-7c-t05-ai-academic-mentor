@@ -230,12 +230,14 @@ cse4104-7c-t05-ai-academic-mentor/
 |----------|------|
 | **Vercel Deployment** | [https://ai-academic-mentor.vercel.app](https://ai-academic-mentor.vercel.app) |
 
+---
 
-### Next Steps
+## 📌 Next Steps  
 
-- **Week 8:** AI Integration
-- **Week 9:** Feature Completion
-- **Week 10:** Testing and Debugging
+- 📅 **Week 8:** 🤖 AI Integration  
+- 🛠️ **Week 9:** ✨ Feature Completion  
+- 🐞 **Week 10:** 🔍 Testing and Debugging  
+
 
 ---
 
