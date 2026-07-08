@@ -1,9 +1,10 @@
 > **Course:** CSE 4104 | **Semester:** Spring 2026 | **Instructor:** Md. Riaz Mahmud | Northern University of Business & Technology, Khulna (NUBTK)
 
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.57ad30f3-a5df-4dab-8e21-721a39c3c1e6.png" 
-       alt="AI Academic Mentor Logo" width="250" />
+  <img src="https://copilot.microsoft.com/th/id/BCO.00810b37-0aee-41de-980c-9648f0815e53.png" 
+       alt="AI Academic Mentor Logo" width="180" />
 </p>
+
 
 
 
