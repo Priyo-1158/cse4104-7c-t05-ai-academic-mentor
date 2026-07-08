@@ -185,7 +185,7 @@ cse4104-7c-t05-ai-academic-mentor/
 │
 ├── screenshots/      # Frontend images (Week 7)
 |                 
-|── assets            # Logo design
+|── assets/            # Logo design
 |
 ├──.gitignore
 │
