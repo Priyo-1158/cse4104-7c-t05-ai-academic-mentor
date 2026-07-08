@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="40"/>
   <img src="https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens" alt="JWT" height="40"/>
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" height="40"/>
+  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="40"/>
+  <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?logo=render&logoColor=white" alt="Render" height="40"/>
 </p>
 
 </div>
