@@ -43,38 +43,25 @@
 
 ---
 
-## 🎯 Project Overview
-
 ## 🎯 Problem Statement
 
-Students face recurring friction in self-directed learning:
+Students struggle with:
+- 📅 Unstructured study schedules  
+- 📚 Generic materials not adapting to pace  
+- ❓ No instant academic Q&A  
+- 📊 Lack of feedback on strengths/weaknesses  
 
-- 📅 No structured way to organize study schedules across multiple subjects and deadlines
-- 📚 Generic study materials that don't adapt to individual pace
-- ❓ Academic questions that come up at odd hours with no one available to answer
-- 📊 No easy feedback loop to see personal strengths and weak areas
- 
-### 💡 Our Solution
+---
 
-**AI Academic Mentor** is an intelligent learning assistant that :
+## 💡 Our Solution
 
-- Provides personalized study recommendations based on student performance
-- Answers academic questions using state-of-the-art AI (Gemini/OpenAI)
-- Generates custom quizzes and practice materials on any topic
-- Tracks learning progress with visual analytics and dashboards
-- Offers 24/7 academic support without human intervention
-
-### 🤖 Why AI is Essential
-
-Traditional learning systems are static and one-size-fits-all. AI makes AI Academic Mentor :
-
-| Benefit | Description |
-|---------|-------------|
-| **Adaptive** | Changes difficulty based on student performance |
-| **Conversational** | Natural dialogue like a real human tutor |
-| **Intelligent** | Understands context and provides relevant answers |
-| **Scalable** | Can help unlimited students simultaneously |
-| **Personalized** | Tailors content to individual learning styles |
+**AI Academic Mentor** →  
+A full‑stack assistant with:  
+- 💬 AI Chatbot  
+- 📝 Quiz Generator  
+- 📅 Study Planner  
+- 📄 Note Summarizer  
+- 📊 Progress Dashboard  
 
 ---
 
