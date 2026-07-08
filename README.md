@@ -137,7 +137,7 @@ A full‑stack assistant with:
 
 ### 📋 Prerequisites
 
-| 🛠️ Tool | 📦 Version | 🎯 Purpose |
+|  Tool |  Version |  Purpose |
 |------|---------|---------|
 | 🟢 Node.js | v18+ | JavaScript runtime |
 | 📦 npm | v9+ | Package manager |
