@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🧠 AI Academic Mentor
-Personalized Learning Assistant for Students
+### Personalized Learning Assistant for Students
 
 
 
