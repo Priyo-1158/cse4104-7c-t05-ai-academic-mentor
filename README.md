@@ -64,19 +64,19 @@ A full‑stack assistant with:
 - 📊 Progress Dashboard  
 
 ---
+## ✨ Features
 
-## ✨ Proposed Features
+| # | Feature | Description |
+|---|---|---|
+| 🔐 | User Authentication | Secure JWT login/logout |
+| 💬 | AI Chatbot | Real-time Q&A via Gemini |
+| 📝 | Quiz Generator | MCQ quizzes + score history |
+| 📅 | Study Planner | Day-by-day schedules |
+| 📄 | Note Summarizer | Multiple summary styles |
+| 🗒️ | Personal Notes | Store notes separately |
+| 📊 | Progress Dashboard | Aggregated stats |
+| 🛡️ | Admin Dashboard | Real user activity |
 
-| SL No | Feature | Description |
-|---|---------|-------------|
-| 1 | 🔐 **User Authentication** | Secure registration and login with JWT tokens |
-| 2 | 💬 **AI Chatbot** | Real-time Q&A using Gemini API / OpenAI |
-| 3 | 📚 **Smart Recommendations** | AI suggests resources based on skill level |
-| 4 | 📝 **Quiz Generator** | Creates custom quizzes on any subject |
-| 5 | 📊 **Progress Dashboard** | Visual charts of learning analytics |
-| 6 | 📅 **AI Study Planner** | Generates personalized study schedules |
-| 7 | 📎 **Resource Library** | Save and organize learning materials |
-| 8 | 📈 **Performance Analytics** | Track strengths and weak areas |
 
 ---
 
