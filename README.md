@@ -23,7 +23,7 @@
 
 </div>
 
-
+---
 ## 👥 Team Information
 
 |Field | Details |
