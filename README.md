@@ -2,8 +2,9 @@
 
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.57ad30f3-a5df-4dab-8e21-721a39c3c1e6.png" 
-       alt="AI Academic Mentor Slim Banner" width="70%" />
+       alt="AI Academic Mentor Logo" width="250" />
 </p>
+
 
 
 
