@@ -234,8 +234,7 @@ cse4104-7c-t05-ai-academic-mentor/
 ---
 
 ## 📌 Next Steps  
-
-- 📅 **Week 8:** 🤖 AI Integration  
+ 
 - 🛠️ **Week 9:** ✨ Feature Completion  
 - 🐞 **Week 10:** 🔍 Testing and Debugging  
 
