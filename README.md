@@ -176,18 +176,30 @@ npm run dev
 cse4104-7c-t05-ai-academic-mentor/
 │
 ├── backend/          # Node.js API (Week 6)
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   └── server.js
+│
+├── frontend/         # React app (Week 7)
+│   ├── public/
+│   ├── src/
+│   └── package.json
+│
+├── test/             # Test Cases (Week 10) ← NEW
+│   ├── test-cases.md
+│   └── bug-report.md
 │
 ├── diagrams/         # System diagrams (Week 4)
 │
 ├── documentation/    # All project documents (PDFs)
 │
-├── frontend/         # React app (Week 7)
-│
 ├── screenshots/      # Frontend images (Week 7)
-|                 
-|── assets/            # Logo design
-|
-├──.gitignore
+│
+├── assets/           # Logo design
+│
+├── .gitignore
 │
 ├── LICENSE
 │
@@ -195,20 +207,46 @@ cse4104-7c-t05-ai-academic-mentor/
 
 ```
 
-## 📊 Week 9 Progress: Feature Completion & Integration (✅ Completed)
+### 📊 Week 10 Progress: Testing & Debugging (✅ Completed)
 
 ### ✅ Deliverables Completed
 
 | # | Deliverable | Status |
 |---|-------------|--------|
-| 1 | All Core Features | ✅ Done |
-| 2 | Frontend-Backend Integration | ✅ Done |
-| 3 | AI Integration | ✅ Done |
-| 4 | User Authentication | ✅ Done |
-| 5 | Major User Workflows | ✅ Done |
-| 6 | UI/UX Improvements | ✅ Done |
-| 7 | Error Handling | ✅ Done |
-| 8 | Project Scope Review | ✅ Done |
+| 1 | Functional Testing | ✅ Done |
+| 2 | Authentication & Authorization Testing | ✅ Done |
+| 3 | API Testing (Postman) | ✅ Done |
+| 4 | Database Testing | ✅ Done |
+| 5 | AI Feature Testing | ✅ Done |
+| 6 | UI/UX Testing | ✅ Done |
+| 7 | Responsive Testing | ✅ Done |
+| 8 | Security Testing | ✅ Done |
+| 9 | Bug Tracking & Fixing | ✅ Done |
+| 10 | Regression Testing | ✅ Done |
+
+### 📝 Sample Test Cases
+
+| TC ID | Feature | Scenario | Expected Result | Actual Result | Status |
+|-------|---------|----------|-----------------|---------------|--------|
+| TC-01 | User Login | Valid credentials | Redirect to dashboard | Redirect to dashboard | ✅ Passed |
+| TC-02 | User Login | Invalid password | Show error message | Show error message | ✅ Passed |
+| TC-03 | User Registration | Valid data | Create account | Create account | ✅ Passed |
+| TC-04 | User Registration | Duplicate email | Show error message | Show error message | ✅ Passed |
+| TC-05 | AI Chatbot | Valid question | AI response | AI response | ✅ Passed |
+| TC-06 | AI Chatbot | Empty input | Show validation error | Show validation error | ✅ Passed |
+| TC-07 | Quiz Generator | Valid topic | Generate quiz | Generate quiz | ✅ Passed |
+| TC-08 | Note Summarizer | Valid notes | Generate summary | Generate summary | ✅ Passed |
+| TC-09 | Protected Route | No token | Redirect to login | Redirect to login | ✅ Passed |
+| TC-10 | Mobile View | All pages | Responsive layout | Responsive layout | ✅ Passed |
+
+### 🐞 Sample Bug Report
+
+| Bug ID | Description | Module | Severity | Status | Resolution |
+|--------|-------------|--------|----------|--------|------------|
+| BUG-01 | Login button disabled on empty fields | Authentication | Medium | ✅ Fixed | Added validation |
+| BUG-02 | AI response timeout for long questions | AI | Medium | ✅ Fixed | Added timeout handling |
+| BUG-03 | Mobile navigation overlaps | Frontend | Low | ✅ Fixed | Fixed CSS positioning |
+| BUG-04 | Quiz score not saving correctly | Database | High | ✅ Fixed | Fixed Mongoose schema |
 
 
 ### 📁 Files Location
@@ -230,9 +268,10 @@ cse4104-7c-t05-ai-academic-mentor/
  
 | Week | Task |
 |------|------|
-| 🐞 **Week 10** | Testing and Debugging |
 | 🚀 **Week 11** | Deployment & Security |
 | 📄 **Week 12** | Final Report & User Manual |
+| 🎤 **Week 13** | Presentation Preparation |
+| 🏁 **Week 14** | Final Presentation & Viva |
 
 
 ---
@@ -249,7 +288,7 @@ Northern University of Business and Technology, Khulna
 ## 📄 License  
 
 📜 **MIT License** ( Declared in `backend/package.json`)  
-🕒 **Last Updated:** August 19, 2026  
+🕒 **Last Updated:** September 7, 2026  
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
