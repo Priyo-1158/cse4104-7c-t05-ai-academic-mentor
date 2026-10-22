@@ -9,7 +9,18 @@ const sessionSchema = new mongoose.Schema({
   subject: String,
   topic: String,
   duration_min: Number,
-  type: { type: String, enum: ['lecture', 'practice', 'revision', 'break'], default: 'lecture' },
+  type: {
+  type: String,
+  enum: [
+    'lecture',
+    'practice',
+    'review',
+    'revision',
+    'assignment',
+    'break'
+  ],
+  default: 'lecture'
+},
   priority: { type: String, enum: ['high', 'medium', 'low'], default: 'medium' },
   tips: String,
   completed: { type: Boolean, default: false }

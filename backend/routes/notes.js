@@ -13,10 +13,13 @@ const express = require('express');
 const router = express.Router();
 const { auth } = require('../middleware/auth');
 
+// FIX (Week 07 audit): filter to kind:'note' (or missing kind, for docs
+// created before this field existed) so /api/summary documents don't leak
+// into this list.
 router.get('/', auth, async (req, res) => {
   try {
     const Note = require('../models/Note');
-    const notes = await Note.find({ user: req.user.id }).sort({ createdAt: -1 });
+    const notes = await Note.find({ user: req.user.id, kind: { $in: ['note', null] } }).sort({ createdAt: -1 });
     res.json({ notes, count: notes.length });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -28,7 +31,7 @@ router.post('/', auth, async (req, res) => {
     const { title, originalText, subject, tags } = req.body;
     if (!title || !originalText) return res.status(400).json({ error: 'title and originalText are required.' });
     const Note = require('../models/Note');
-    const note = await Note.create({ user: req.user.id, title, originalText, subject, tags: tags || [] });
+    const note = await Note.create({ user: req.user.id, kind: 'note', title, originalText, subject, tags: tags || [] });
     res.status(201).json({ note });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -38,7 +41,7 @@ router.post('/', auth, async (req, res) => {
 router.get('/:id', auth, async (req, res) => {
   try {
     const Note = require('../models/Note');
-    const note = await Note.findOne({ _id: req.params.id, user: req.user.id });
+    const note = await Note.findOne({ _id: req.params.id, user: req.user.id, kind: { $in: ['note', null] } });
     if (!note) return res.status(404).json({ error: 'Note not found.' });
     res.json({ note });
   } catch (err) {
@@ -50,7 +53,7 @@ router.put('/:id', auth, async (req, res) => {
   try {
     const Note = require('../models/Note');
     const note = await Note.findOneAndUpdate(
-      { _id: req.params.id, user: req.user.id },
+      { _id: req.params.id, user: req.user.id, kind: { $in: ['note', null] } },
       req.body,
       { new: true, runValidators: true }
     );
@@ -64,7 +67,7 @@ router.put('/:id', auth, async (req, res) => {
 router.delete('/:id', auth, async (req, res) => {
   try {
     const Note = require('../models/Note');
-    const deleted = await Note.findOneAndDelete({ _id: req.params.id, user: req.user.id });
+    const deleted = await Note.findOneAndDelete({ _id: req.params.id, user: req.user.id, kind: { $in: ['note', null] } });
     if (!deleted) return res.status(404).json({ error: 'Note not found.' });
     res.json({ message: 'Note deleted.' });
   } catch (err) {

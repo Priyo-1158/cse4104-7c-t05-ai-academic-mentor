@@ -82,6 +82,38 @@ router.get('/users/:id', async (req, res) => {
   }
 });
 
+// ── GET /api/admin/users/:id/activity ───────────────────────────
+// FIX: admin.html used to read DataStore.getForUser(otherUserId, ...) which
+// reads from the ADMIN'S OWN BROWSER localStorage — it could never contain
+// another user's data (localStorage is per-browser, not shared). Every
+// "user activity" number the admin panel showed for other users was
+// silently always 0. This is the real thing, straight from MongoDB.
+router.get('/users/:id/activity', async (req, res) => {
+  try {
+    const QuizResult = require('../models/QuizResult');
+    const StudyPlan = require('../models/StudyPlan');
+    const Note = require('../models/Note');
+
+    const [quizzes, plans, notes] = await Promise.all([
+      QuizResult.find({ user: req.params.id }),
+      StudyPlan.find({ user: req.params.id }),
+      Note.find({ user: req.params.id })
+    ]);
+    const chats = notes.filter(n => n.subject === 'chat');
+    const avgScore = quizzes.length ? Math.round(quizzes.reduce((s, q) => s + q.score, 0) / quizzes.length) : 0;
+
+    res.json({
+      quizzes: quizzes.length,
+      plans: plans.length,
+      chats: chats.length,
+      notes: notes.length - chats.length,
+      avgScore
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // ── PUT /api/admin/users/:id ──────────────────────────────────
 router.put('/users/:id', async (req, res) => {
   try {

@@ -5,6 +5,9 @@
  * Usage: node database/seed.js
  * Creates: 4 admin accounts + sample student accounts
  */
+// ============ FORCE GLOBAL DNS RESOLVER FOR SEED PIPELINE ============
+const dns = require('node:dns');
+dns.setServers(['1.1.1.1', '1.0.0.1', '8.8.8.8', '8.8.4.4']);
 
 require('dotenv').config({ path: '../.env' });
 const mongoose = require('mongoose');
@@ -35,16 +38,22 @@ userSchema.pre('save', async function(next) {
 const User = mongoose.model('User', userSchema);
 
 const seedData = {
+  // NOTE: 'admin@nubtk.edu' / 'student@nubtk.edu' are the demo credentials
+  // referenced elsewhere in this project's docs. They previously only
+  // existed as FAKE localStorage entries seeded by login.html on every page
+  // load — they never existed in MongoDB. Adding them here for real.
   admins: [
-    { name: 'Admin One',   email: 'admin1@nubtk.edu', password: 'Admin@1234', role: 'admin', department: 'CSE' },
-    { name: 'Admin Two',   email: 'admin2@nubtk.edu', password: 'Admin@1234', role: 'admin', department: 'CSE' },
-    { name: 'Admin Three', email: 'admin3@nubtk.edu', password: 'Admin@1234', role: 'admin', department: 'CSE' },
-    { name: 'Admin Four',  email: 'admin4@nubtk.edu', password: 'Admin@1234', role: 'admin', department: 'CSE' },
+    { name: 'Nadir',        email: 'admin@nubtk.edu',  password: 'admin123',     role: 'admin', department: 'CSE' },
+    { name: 'Admin One',    email: 'admin1@nubtk.edu', password: 'Admin@1234',   role: 'admin', department: 'CSE' },
+    { name: 'Admin Two',    email: 'admin2@nubtk.edu', password: 'Admin@1234',   role: 'admin', department: 'CSE' },
+    { name: 'Admin Three',  email: 'admin3@nubtk.edu', password: 'Admin@1234',   role: 'admin', department: 'CSE' },
+    { name: 'Admin Four',   email: 'admin4@nubtk.edu', password: 'Admin@1234',   role: 'admin', department: 'CSE' },
   ],
   students: [
-    { name: 'Alice Rahman',  email: 'alice@nubtk.edu', password: 'Student@123', studentId: 'CSE-2301', department: 'CSE' },
-    { name: 'Bob Hossain',   email: 'bob@nubtk.edu',   password: 'Student@123', studentId: 'CSE-2302', department: 'CSE' },
-    { name: 'Chayon Ahmed',  email: 'chayon@nubtk.edu',password: 'Student@123', studentId: 'CSE-2303', department: 'CSE' },
+    { name: 'Shadman Priyo', email: 'student@nubtk.edu', password: 'student123',  studentId: '11230121168', department: 'CSE' },
+    { name: 'Alice Rahman',  email: 'alice@nubtk.edu',   password: 'Student@123', studentId: 'CSE-2301', department: 'CSE' },
+    { name: 'Bob Hossain',   email: 'bob@nubtk.edu',     password: 'Student@123', studentId: 'CSE-2302', department: 'CSE' },
+    { name: 'Chayon Ahmed',  email: 'chayon@nubtk.edu',  password: 'Student@123', studentId: 'CSE-2303', department: 'CSE' },
   ]
 };
 
@@ -76,7 +85,8 @@ async function seed() {
     }
 
     console.log('\n🎉 Seed complete!');
-    console.log('Admin credentials: admin1@nubtk.edu / Admin@1234');
+    console.log('Admin credentials:   admin@nubtk.edu / admin123');
+    console.log('Student credentials: student@nubtk.edu / student123');
     process.exit(0);
   } catch (err) {
     console.error('❌ Seed error:', err.message);

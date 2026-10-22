@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
-    "seed": "node database/seed.js"
+    "seed": "node -r dotenv/config database/seed.js"
+
   },
   "dependencies": {
     "@google/genai": "^2.10.0",

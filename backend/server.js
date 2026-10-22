@@ -1,19 +1,15 @@
 /**
- * AI Academic Mentor — Express Backend
+ * AI Academic Mentor — Express Backend Master
  * CSE4104-7C-T05 | NUBTK 2026
  * ============================================
  * Week 06: Backend Development & Database Implementation
- * Team Members:
- *   - Team Leader
- *   - Frontend Developer (Chayon)
- *   - Backend Developer
- *   - AI Integration Lead
- * Supervisor: Md. Riaz Mahmud
+ * Fully configured to communicate with your Frontend Live Server on Port 5500.
  */
 
-// ============ DNS FIX FOR MONGODB ATLAS ============
-const dns = require('dns');
-dns.setServers(['1.1.1.1', '8.8.8.8']); // গুগল এবং ক্লাউডফ্লেয়ার ডিএনএস ফোর্স করা হলো
+// ============ 🚀 BULLETPROOF DNS FIX FOR MONGODB ATLAS ============
+// This forces Node.js core network registry to bypass faulty system/ISP resolvers
+const dns = require('node:dns');
+dns.setServers(['1.1.1.1', '1.0.0.1', '8.8.8.8', '8.8.4.4']); 
 
 require('dotenv').config();
 const express = require('express');
@@ -26,28 +22,58 @@ const mongoose = require('mongoose');
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// ============ MIDDLEWARE ============
-app.use(helmet());
-app.use(morgan('combined'));
-app.use(cors({
-  origin: process.env.CLIENT_URL || '*',
-  credentials: true
+// ============ MIDDLEWARE (FIXED FOR PORT 5500 LIVE SERVER) ============
+// Bypasses Helmet's strict cross-origin block to allow browser script requests safely
+app.use(helmet({
+  crossOriginResourcePolicy: false,
+  contentSecurityPolicy: false
 }));
+
+app.use(morgan('combined'));
+
+// FIX (Week 07 audit): the old allowlist only had local dev origins, so the
+// deployed Netlify frontend was guaranteed to get CORS-blocked on every
+// request. This now (1) keeps local dev origins, (2) reads CLIENT_URL from
+// .env so you set your real Netlify URL in ONE place, and (3) allows any
+// *.netlify.app subdomain so Netlify's deploy-preview URLs also work without
+// you editing this file every time. Set CLIENT_URL in your .env / Render
+// dashboard env vars to your real deployed Netlify URL before submission.
+const allowedOrigins = [
+  'http://127.0.0.1:5500',
+  'http://localhost:5500',
+  'http://localhost:3000',
+  process.env.CLIENT_URL
+].filter(Boolean);
+
+app.use(cors({
+  origin: (origin, callback) => {
+    // Allow non-browser tools (curl, Postman) which send no Origin header.
+    if (!origin) return callback(null, true);
+    const isAllowlisted = allowedOrigins.includes(origin);
+    const isNetlify = /^https:\/\/[a-z0-9-]+\.netlify\.app$/.test(origin);
+    if (isAllowlisted || isNetlify) return callback(null, true);
+    return callback(new Error(`CORS blocked for origin: ${origin}`));
+  },
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+}));
+
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true }));
 
 // General rate limiting
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
+  windowMs: 15 * 60 * 1000, 
   max: 100,
   message: { error: 'Too many requests, please try again later.' }
 });
 app.use('/api/', limiter);
 
-// AI-specific rate limiting (stricter)
+// AI-specific rate limiting (optimized for flawless workspace testing)
 const aiLimiter = rateLimit({
-  windowMs: 60 * 1000, // 1 minute
-  max: 20,
+  windowMs: 60 * 1000, 
+  max: 60, 
   message: { error: 'AI rate limit exceeded. Please wait a moment.' }
 });
 
@@ -58,20 +84,17 @@ const connectDB = async () => {
     return;
   }
   try {
-    // কানেকশন অপশনসহ মঙ্গোডিবি ড্রাইভারে সরাসরি রিকোয়েস্ট পাঠানো হচ্ছে
     await mongoose.connect(process.env.MONGODB_URI, {
       serverSelectionTimeoutMS: 5000
     });
     console.log('✅ MongoDB connected successfully');
     
     // ============ GEMINI API KEY CHECKER ============
-    // সার্ভার চালু হওয়ার পর এটি আপনার এপিআই কী চেক করবে
     console.log(
       process.env.GEMINI_API_KEY 
         ? '🤖 Gemini API Key loaded: YES (Success) 🎉' 
         : '❌ Gemini API Key loaded: NO (Failed! Please check your .env file)'
     );
-
   } catch (err) {
     console.error('❌ MongoDB connection error:', err.message);
     process.exit(1);
@@ -81,14 +104,14 @@ const connectDB = async () => {
 connectDB();
 
 // ============ ROUTES ============
-app.use('/api/auth',   aiLimiter , require('./routes/auth'));
-app.use('/api/ai',       require('./routes/ai'));
-app.use('/api/quiz',     require('./routes/quiz'));
-app.use('/api/plan',     require('./routes/plan'));
-app.use('/api/summary',  require('./routes/summary'));
+app.use('/api/auth',    require('./routes/auth'));
+app.use('/api/ai',     require('./routes/ai'));
+app.use('/api/quiz',   require('./routes/quiz'));
+app.use('/api/plan',   require('./routes/plan'));
+app.use('/api/summary', require('./routes/summary'));
 app.use('/api/progress', require('./routes/progress'));
-app.use('/api/admin',    require('./routes/admin'));
-app.use('/api/notes',    require('./routes/notes'));
+app.use('/api/admin',  require('./routes/admin'));
+app.use('/api/notes',  require('./routes/notes'));
 
 // ============ HEALTH CHECK ============
 app.get('/api/health', (req, res) => {

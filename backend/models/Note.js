@@ -12,6 +12,17 @@ const noteSchema = new mongoose.Schema({
     required: true,
     index: true
   },
+  // FIX (Week 07 audit): /api/notes and /api/summary both read/wrote this
+  // collection with zero discriminator, so a note created via one endpoint
+  // silently appeared in the other endpoint's list. `kind` separates them
+  // at the schema level. Existing documents without this field are treated
+  // as 'note' by the routes below for backward compatibility.
+  kind: {
+    type: String,
+    enum: ['note', 'summary', 'chat'],
+    default: 'note',
+    index: true
+  },
   title: {
     type: String,
     required: [true, 'Title is required'],
